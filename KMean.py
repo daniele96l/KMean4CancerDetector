@@ -6,7 +6,7 @@ from sklearn.preprocessing import scale
 import pandas as pd
 
 bc = load_breast_cancer()
-#print(bc)
+#print(bc
 
 #we will see something like data': array([[1.799e+01, 1.038e+01, 1.228e+02, ..., 2.654e-01, 4.601e-01,
 #in a numpy array
